@@ -1,1 +1,1 @@
-# gameOfLife_SDL2
+# GrphProject1
